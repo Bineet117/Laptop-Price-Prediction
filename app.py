@@ -16,4 +16,7 @@ RAM = st.selectbox("Ram(in GB)",df["Ram"].unique())
 Weight = st.number_input("Weight of the Laptop")
 TouchScreen = st.selectbox("TouchScreen",["No","Yes"])
 IPS = st.selectbox("IPS",["No","Yes"])
+
+
+# CPU Brand
 # RAM = st.selectbox("TypeName",df["TypeName"].unique())
