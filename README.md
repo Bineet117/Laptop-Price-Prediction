@@ -89,7 +89,17 @@ Select the features for prediction and get the estimated laptop price.
     * r2_score
 * train_test_split
 * Pickle
-## 👉 Screenshots
+
+## 👉 Insights
+![Dell, Lenovo & HP has the most number of laptop (around 300)](https://github.com/Bineet117/Laptop-Price-Prediction/assets/118985862/9ee53efb-1591-46c1-926b-7ddd20768e77)
+- Dell, Lenovo & HP has the most number of laptop (around 300)
+
+![output](https://github.com/Bineet117/Laptop-Price-Prediction/assets/118985862/17a020c7-4a9c-4786-be34-5c07ae460bc0)
+- By the above Scatterplot and Barplot we can clearly see that `Razer` Company has the highest price of the laptop
+- Price of the laptop expect Razer company are below 1,20,000 
+
+
+## 👉 Streamlit App
 
 <div style="display:flex; justify-content:space-between;">
   <img src="https://github.com/Bineet117/Laptop-Price-Prediction/assets/118985862/8a41b119-1914-46cf-b24d-6ae779ca9517" alt="Screenshot 1" width="400"/>
