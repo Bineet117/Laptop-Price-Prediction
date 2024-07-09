@@ -4,7 +4,7 @@
 ## 👉Table of Contents
 - [Introduction](#👉Introduction)
 - [Problem Statement](#👉Problem_Statement)
-- [Data Description](#👉Data_Description)
+- [Data Description](#Data_Description)
 - [Installation](#👉Installation)
 - [Usage](#👉Usage)
 - [Technologies_Used](#👉Technologies_Used)
@@ -20,7 +20,7 @@ This project uses machine learning to predict laptop prices based on brand, spec
 ## 👉Problem_Statement
 The laptop market is influenced by brand reputation, hardware specifications, demand, and technological advancements, making price forecasting complex. Traditional methods often lack precision and adaptability. A data-driven approach using machine learning can develop robust predictive models for accurate laptop price forecasts, improving our understanding and adaptation to market dynamics.
 
-## 👉Data_Description
+## Data_Description
 
 - **Company :** Name of the Company
 
