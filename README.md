@@ -51,6 +51,12 @@ The laptop market is influenced by brand reputation, hardware specifications, de
 
 ## 👉 Installation
 
+Clone the repository:
+
+```bash
+   git clone
+```
+
 To install required libraries:
 
 ```bash
