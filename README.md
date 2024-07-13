@@ -54,7 +54,7 @@ The laptop market is influenced by brand reputation, hardware specifications, de
 Clone the repository:
 
 ```bash
-   git clone
+   git clone https://github.com/Bineet117/Laptop-Price-Prediction.git
 ```
 
 To install required libraries:
