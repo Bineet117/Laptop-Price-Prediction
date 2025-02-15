@@ -109,11 +109,8 @@ Select the features for prediction and get the estimated laptop price.
 
 
 ## 👉 Streamlit App
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/84945499-3e3a-4d15-bb74-81597f057659" />
 
-<div style="display:flex; justify-content:space-between;">
-  <img src="https://github.com/Bineet117/Laptop-Price-Prediction/assets/118985862/8a41b119-1914-46cf-b24d-6ae779ca9517" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/Bineet117/Laptop-Price-Prediction/assets/118985862/12cfd0c6-40b8-45de-90ad-459f7ace49d7" alt="Screenshot 2" width="400"/>
-</div>
 
 
 ## 👉 Contact_Information
