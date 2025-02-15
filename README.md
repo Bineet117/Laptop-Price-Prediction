@@ -12,6 +12,9 @@
 - [Contact_Information](#👉Contact_Information)
 - [Conclusion](#👉Conclusion) --->
 
+## 👉 Try it 
+Test this app:- https://laptop--price.streamlit.app/
+
 ## 👉 Introduction
 This project uses machine learning to predict laptop prices based on brand, specifications, and market trends. It helps stakeholders make informed decisions on purchasing, pricing, inventory management, and product development.
 
